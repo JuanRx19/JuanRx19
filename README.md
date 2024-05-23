@@ -12,7 +12,7 @@
 # <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Sobre Mi :
 - 🔭 Tengo una página web : https://pagina-personal-alpha.vercel.app/
   
-- 🌱 Actualmente estoy aprendiendo : java Springboot
+- 🌱 Actualmente estoy aprendiendo : Java Springboot
 
 - 👯 I’m looking to collaborate on my webpage
 
