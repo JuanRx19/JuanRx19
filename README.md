@@ -20,8 +20,6 @@
 
 - 📫 Puedes ponerte en contacto conmigo: juanrx1904@gmail.com
 
-- ⚡ Dato curioso: 7 de cada 10 consumidores encuentran una empresa a través del blog
-
 - 💡 Mi algoritmo favorito es Kruskal
 
 ## 🌐Redes sociales
