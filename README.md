@@ -10,7 +10,7 @@
 <div align="">
   
 # <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Sobre Mi :
-🔭 Tengo una página web : https://pagina-personal-alpha.vercel.app/
+- 🔭 Tengo una página web : https://pagina-personal-alpha.vercel.app/
   
 - 🌱 Actualmente estoy aprendiendo : java Springboot
 
@@ -18,8 +18,7 @@
 
 - 💬 Preguntame si necesitas ayuda
 
-- 📫 Puedes ponerte en contacto conmigo:
-  Mi correo es "juanrx1904@gmail.com"
+- 📫 Puedes ponerte en contacto conmigo: juanrx1904@gmail.com
 
 - ⚡ Dato curioso: 7 de cada 10 consumidores encuentran una empresa a través del blog
 
@@ -32,11 +31,12 @@
 
 <p align="center">
 
-- **Languages**:
-    
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+- **Lenguajes**:
+- 
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Java](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 
 <br>   
     
