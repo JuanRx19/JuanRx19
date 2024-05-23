@@ -14,8 +14,6 @@
   
 - 🌱 Actualmente estoy aprendiendo : Java Springboot
 
-- 👯 I’m looking to collaborate on my webpage
-
 - 💬 Preguntame si necesitas ayuda
 
 - 📫 Puedes ponerte en contacto conmigo: juanrx1904@gmail.com
