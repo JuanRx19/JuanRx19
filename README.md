@@ -81,24 +81,3 @@
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JuanRx19&theme=discord&no-frame=false&no-bg=false&margin-w=4)
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
- [10 must have 3rd party services for all websites](https://dev.to/codewhiteweb/10-must-have-3rd-party-services-for-all-websites-584m)
-  
- [Best Google Fonts for your website](https://dev.to/codewhiteweb/best-google-fonts-for-your-website-3e5k)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://dev.to/codewhiteweb)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
----
-![](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
-![](http://ForTheBadge.com/images/badges/built-by-developers.svg)
-![](https://forthebadge.com/images/badges/uses-brains.svg)
----
-![](https://komarev.com/ghpvc/?username=CodeWhiteWeb&label=Visitors+Count&color=brightgreen)
-</div>
