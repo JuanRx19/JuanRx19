@@ -21,7 +21,7 @@
 - 💡 Mi algoritmo favorito es Kruskal
 
 ## 🌐Redes sociales
-![uHunt](https://img.shields.io/badge/uHunt-red?logo=uHunt&link=https%3A%2F%2Fuhunt.onlinejudge.org%2Fid%2F1257196) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/CodeWhiteWeb) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/code_white_web) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/CodeWhiteWeb) 
+![uHunt](https://img.shields.io/badge/uHunt-red?logo=uHunt&link=https%3A%2F%2Fuhunt.onlinejudge.org%2Fid%2F1257196) [![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)(https://www.instagram.com/juanrm.19/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/code_white_web) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)(https://www.linkedin.com/in/juan-miguel-rojas-mejia-35968a1a2/) 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
