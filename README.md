@@ -12,16 +12,16 @@
 # <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Sobre Mi :
 🔭 Tengo una página web : https://pagina-personal-alpha.vercel.app/
   
-🌱 Actualmente estoy aprendiendo : java Springboot
+- 🌱 Actualmente estoy aprendiendo : java Springboot
 
-  👯 I’m looking to collaborate on my webpage
+- 👯 I’m looking to collaborate on my webpage
 
-  💬 Preguntame si necesitas ayuda
+- 💬 Preguntame si necesitas ayuda
 
-  📫 Puedes ponerte en contacto conmigo:  
+- 📫 Puedes ponerte en contacto conmigo:
   Mi correo es "juanrx1904@gmail.com"
 
-⚡ Dato curioso: 7 de cada 10 consumidores encuentran una empresa a través del blog
+- ⚡ Dato curioso: 7 de cada 10 consumidores encuentran una empresa a través del blog
 
 
 ## 🌐Redes sociales
