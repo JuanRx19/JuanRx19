@@ -18,8 +18,6 @@
 
 - 📫 Puedes ponerte en contacto conmigo: juanrx1904@gmail.com
 
-- 💡 Mi algoritmo favorito es Kruskal
-
 ## 🌐Redes sociales
 [![uHunt](https://img.shields.io/badge/uHunt-red?logo=uHunt&link=https%3A%2F%2Fuhunt.onlinejudge.org%2Fid%2F1257196)](https://uhunt.onlinejudge.org/id/1257196) [![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram)](https://www.instagram.com/juanrm.19/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/juan-miguel-rojas-mejia-35968a1a2/) 
 
